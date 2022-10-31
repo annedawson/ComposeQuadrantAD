@@ -112,8 +112,7 @@ private fun ComposableInfoCard(
 @Composable
 fun DefaultPreview() {
     ComposeQuadrantADTheme {
-
-
+        ComposeQuadrantApp()
     }
 }
 
